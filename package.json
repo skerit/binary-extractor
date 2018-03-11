@@ -1,9 +1,9 @@
 {
 	"name": "binary-extractor",
 	"description": "Extract data from binary files",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"dependencies": {
-		"protoblast": "~0.5.0"
+		"protoblast": "~0.5.3"
 	},
 	"license": "MIT"
 }
